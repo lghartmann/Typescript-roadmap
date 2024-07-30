@@ -1,0 +1,11 @@
+{
+  "name": "typescript-roadmap",
+  "version": "1.0.0",
+  "description": "learning typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Hartmann",
+  "license": "ISC"
+}
